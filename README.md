@@ -2,8 +2,6 @@
 
 API REST de una tienda en línea construida con **Node.js, Express y Prisma (MySQL)**. Incluye autenticación con **JWT**, CRUD de categorías y productos, carrito de compras y pedidos con **transacciones** contra la base de datos.
 
-> Proyecto 2 del portafolio para la postulación a **Practicante Backend – TEINOR S.A.C.**
-
 ## 🧰 Stack
 
 - **Node.js 22** + **Express 5**
